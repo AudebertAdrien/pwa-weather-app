@@ -1,5 +1,8 @@
 # PWA Weather App
 
+React app application
+> yarn start
+
 PWE - Progressive Web App
 
 - Work on a range of different device and operating systems.
