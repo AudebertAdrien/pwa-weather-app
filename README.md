@@ -8,7 +8,5 @@ React app application
 
 PWE - Progressive Web App
 
-- Work on a range of different device and operating systems.
-- Rich and Reliable. Work offline.
-- Web app can reach anyone, anywhere on any device with a single codebase
-
+- Work on a range of different device and operating systems with a single codebase.
+- Work offline.
