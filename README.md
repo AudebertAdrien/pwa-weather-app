@@ -1,7 +1,7 @@
 # PWA Weather App
 
 Link in production 
-> https://quirky-colden-a5b7ba.netlify.app/
+> https://weather-forecast-and-review.netlify.app/
 
 React app application
 > yarn start
