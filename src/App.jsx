@@ -16,12 +16,11 @@ function App() {
 
   return (
     <div className="main-container">
-      <label htmlFor="place">Place</label>
       <input
         id="place "
         type="text"
         className="search"
-        placeholder="Search..."
+        placeholder="Enter a city"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         onKeyPress={search}
